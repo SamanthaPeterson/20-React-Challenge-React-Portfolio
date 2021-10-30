@@ -7,12 +7,9 @@ node_modules
 05-Friends-List
 .env
 
-
 /coverage
 
-
 /build
-
 
 .DS_Store
 .env.local
