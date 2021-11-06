@@ -47,6 +47,6 @@ npm start
 
 ## Questions  
 
-Email Samantha Peterson with any support questions at [mikePeterson@gmail.com](mailto:mikePeterson@gmail.com)\
+Email Samantha Peterson with any support questions at [samanthaPeterson@gmail.com](mailto:samanthaPeterson@gmail.com)\
 or visit my [GitHub Homepage](https://github.com/fondofhats).
   
