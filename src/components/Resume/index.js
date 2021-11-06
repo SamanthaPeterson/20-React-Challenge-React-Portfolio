@@ -17,7 +17,7 @@ function Resume() {
           </ul>
 
           <p class="mt-5">
-            <a href="https://www.linkedin.com/in/SamanthaPeterson/">
+            < a href = "https://www.linkedin.com/in/samantha-peterson-web-developer-photographer/" >
               <img
                 src="https://img.icons8.com/fluent/48/000000/linkedin.png"
                 alt="inkedIn"
@@ -26,7 +26,7 @@ function Resume() {
           </p>
 
           <a
-            href="https://github.com/fondofhats/react-portfolio/raw/main/docs/SamanthaPetersonResume.docx"
+            href="https://github.com/react-portfolio/raw/main/docs/SamanthaPetersonResume.docx"
             class="link"
           >
             Download Resume
@@ -39,9 +39,12 @@ function Resume() {
           <h2 className="top-title">Proficiencies</h2>
           <ul>
             <li>
-            SDL Tridion, Adobe Experience Manager (6.5, As a cloud Service), C#.NET, ASP.NET, JAVA,<br />
-            HTML, CSS (Bootstrap, HandleBars), JavaScript, jQuery, React.js, IndexedDB,<br />
-            Node.js, Express.js, SQL, Sequelize, MongoDB, Mongoose, NoSQL, APIs, Templating.
+            Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
+            for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly. < br />
+            Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
+            for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly. < br />
+            Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
+            for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly.
             </li>
           </ul>
         </div>
