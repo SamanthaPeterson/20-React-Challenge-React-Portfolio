@@ -1,23 +1,28 @@
 import React from 'react';
-import coverImage from '../../assets/cover/cover-image.jpg';
+
 function About() {
-  return (
-    <section className="my-5">
-      <h1 id="about">Who am I?</h1>
-      <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
-      <div className="my-2">
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex
-          condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna
-          mi, ac feugiat metus aliquam maximus. Proin aliquam justo nec diam vulputate vestibulum.
-          Aenean sollicitudin nulla at nisi ornare, nec suscipit massa eleifend. Morbi tristique
-          justo vel turpis sollicitudin, et tristique velit convallis. In hac habitasse platea
-          dictumst. Phasellus mattis nunc sed orci consequat laoreet. Praesent id nisl nibh.
-          Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
-        </p>
-      </div>
-    </section>
-  );
+
+    return(
+        <section className="container">
+            <h2 class="top-title">Samantha Peterson</h2>
+            <hr></hr>
+            <div>
+                <img class="mb-5" id="avatar" src="https://avatars3.githubusercontent.com/u/11549316?s=460&u=9cbb3efedf0845c6fb20524c104ba92fff38c871&v=4" alt="Samantha Peterson" />
+
+                <p>
+                Seasoned programmer with over 20 years of experience incorporating user and business requirements into cost-effective, 
+                secure and user-friendly solutions known for scalability and durability. 
+                </p>
+                <p>
+                Strong knowledge of commercial and open source CMS development 
+                software/database engineering tools.
+                </p>
+                <p>
+                Proven leader and consultant; drive system architecture decisions and lead projects from concept through the release process.
+                </p>
+            </div>
+        </section>
+    )
 }
 
 export default About;

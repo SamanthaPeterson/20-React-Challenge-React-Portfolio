@@ -1,161 +1,52 @@
-# NoSQL 18
+
+# [(React) Personal Portfolio](https://github.com/fondofhats/react-portfolio)
+  
+  ![GitHub](https://img.shields.io/github/license/fondofhats/react-portfolio?style=plastic)
+  
+  ![Most recent commit](https://img.shields.io/github/last-commit/fondofhats/react-portfolio)
+  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fondofhats/react-portfolio)
+
+## Description
+
+  This is a project was developed for the UCF Coding Bootcamp.  
+  The application contained within is a personal portfolio website built with Reactjs.
+
+## Table of Contents
+
+* [Installation](##Installation)
+* [Usage](##Usage)
+* [Documentation](##Documentation)
+* [Questions](##Questions)
+  
+## Installation
+
+Installation is a process of installing the dependencies required.
+Intialize node package manager and then run the following commands;  
+```script
+npm install
+```  
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
+## Usage
 
+ In order to use the application locallaly, Run the following command:  
+```script
+npm start
+```  
 
-  <h1 align="center">NoSQL MongoDB Social network API</h1>
+## Documentation
 
-  <p align="center">
-    NoSQL MongoDB Social network API - Created by Samantha Peterson
-    <br />
-    <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
-    <br />
-    <br />
-    
-   
-## Brief Summary 
+### Demonstration
 
-A social Network API b
- 
+#### Screenshot
 
-## Screenshot
-<img width=" ">
-
-
-
-
-Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
- click here to watch the walk through video https://youtu.be/V4YOchf2pCY
-
-   
-  </p>
-</p>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
-  </ol>
-</details>
+![Screenshot of the Application](docs/react-portfolio.png?raw=true "Screenshot of the Application")
+### Link to the application running on Github Pages: [(React) Personal Portfolio](https://fondofhats.github.io/react-portfolio/)
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+## Questions  
 
-
-
-### Built With
-
-* [MongoDB](https://getbootstrap.com/)
-* [Mongoose](https://www.w3schools.com/css/css_intro.asp)
-* [Javascript](https://expressjs.com/)
-* [Insomnia](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Heroku](https://openweathermap.org/api)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [MongoDB Atlas](https://getbootstrap.com/)
-* [MongoDB Compass](https://getbootstrap.com/)
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-
-### Installation
-
-1. Click on the link below or enter it in your browser
-   ```sh
-    https://github.com/SamanthaPeterson/NoSQL-18
-    
-    https://youtu.be/V4YOchf2pCY
-   ```
-2. Enter city names in the search bar, and view the current and forecast weather information available
-Step 2dghadfhjadjsdbvserd
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage and License Agreement
-
-This software is licensed under the:
-
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Please feel free to contribute to the project. Email me with any questions or concerns 
-
-
-<!-- CONTACT -->
-## Contact
-
-Samantha Peterson 
-
-Github: https://github.com/SamanthaPeterson
-
-Linkedin: https://www.linkedin.com/in/samantha-peterson-web-developer-photographer/
- 
-Twitter:
-@CodingAndDesign
-https://twitter.com/CodingAndDesign
-
-Portfolio
-https://photographersama.myportfolio.com/
-
-
-Email photographer.samantha@live.com
-
-
- 
-
-
-Project Link: [https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard](https://github.com/SamanthaPeterson/Server_Side_API_Weather_Dashboard)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [MongoDB](https://getbootstrap.com/)
-* [Javascript](https://sequelize.org/)
-
-Thank you to my TA and classmate for helping me to do some trouble shooting during office hours. 
-And thank you as well to my tutor for also helping me to better organize my files and troubleshoot. 
+Email Samantha Peterson with any support questions at [mikePeterson@gmail.com](mailto:mikePeterson@gmail.com)\
+or visit my [GitHub Homepage](https://github.com/fondofhats).
+  
