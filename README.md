@@ -7,8 +7,7 @@
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/fondofhats/react-portfolio)
 
 ## Description
-
-  This is a project was developed for the UCF Coding Bootcamp.  
+ 
   The application contained within is a personal portfolio website built with Reactjs.
 
 ## Table of Contents
@@ -20,8 +19,7 @@
   
 ## Installation
 
-Installation is a process of installing the dependencies required.
-Intialize node package manager and then run the following commands;  
+ run the following commands;  
 ```script
 npm install
 ```  
@@ -29,7 +27,7 @@ npm install
 
 ## Usage
 
- In order to use the application locallaly, Run the following command:  
+ In order to use the application locallaly, Run  
 ```script
 npm start
 ```  
@@ -40,13 +38,12 @@ npm start
 
 #### Screenshot
 
-![Screenshot of the Application](docs/react-portfolio.png?raw=true "Screenshot of the Application")
-### Link to the application running on Github Pages: [(React) Personal Portfolio](https://fondofhats.github.io/react-portfolio/)
+### Link to the application running on Github Pages: 
 
 
 
 ## Questions  
 
-Email Samantha Peterson with any support questions at [samanthaPeterson@gmail.com](mailto:samanthaPeterson@gmail.com)\
-or visit my [GitHub Homepage](https://github.com/fondofhats).
+Email Samantha Peterson with any support questions at 
+or visit my [GitHub Homepage](https://github.com/
   
