@@ -6,7 +6,7 @@
   <h1 align="center">20. React Challenge: React Portfolio</h1>
 
   <p align="center">
-    22. State Challenge: Redux Store- Created by Samantha Peterson
+    20. React Challenge: React Portfolio- Created by Samantha Peterson
     <br />
     <a href="https://github.com/SamanthaPeterson/NoSQL-18"><strong>Check it out »</strong></a>
     <br />
@@ -28,7 +28,7 @@ Deployed link here
 
 ## Brief Summary 
 
-22. State Challenge: Redux Store
+20. React Challenge: React Portfolio
  
 
 ## Screenshot
