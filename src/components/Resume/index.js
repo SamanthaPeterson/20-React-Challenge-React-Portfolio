@@ -35,17 +35,19 @@ function Resume() {
 
       <div class="justify-content-center mt-5">
         <div>
-          <h2 className="top-title">Proficiencies</h2>
+          <h2 className="top-title">Skills</h2>
           <ul>
             <li>
             Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
             for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly. < br />
-            Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
-            for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly. < br />
-            Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
-            for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly.
             </li>
           </ul>
+            <ul>
+              <li>
+              Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
+            for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly. < br / >
+              </li> 
+              </ul>
         </div>
       </div>
     </section>

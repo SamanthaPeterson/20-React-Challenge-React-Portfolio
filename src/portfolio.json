@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "name": "React Retreat",
-        "image": "https://github.com/kpehl/react-retreat/raw/main/docs/react-retreat.png",
-        "github": "https://github.com/kpehl/react-retreat",
-        "deploy": "https://react-retreat.herokuapp.com/",
-        "topics": "Reactjs, Creat-React-App service worker, GraphQl, Redux, JWT Authentication, ReactStrap, node, express-session, jawsdb, mongodb, mongoose"
+        "name": "Third-Party APIs Challenge: Work Day Scheduler",
+        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/Screen%20Shot%202021-11-08%20at%204.02.21%20PM.png?raw=true",
+        "github": "https://github.com/SamanthaPeterson/work-day-scheduler-third-party-apis",
+        "deploy": "https://samanthapeterson.github.io/work-day-scheduler-third-party-apis/",
+        "topics": " Moment.js, Third-Party APIs "
     },
     {
         "id": 2,
-        "name": "Week In View",
-        "image": "https://github.com/kpehl/week-in-view/raw/main/media/week-in-view.png",
-        "github": "https://github.com/kpehl/week-in-view",
-        "deploy": "https://rocky-mountain-95430.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "name": "Workout Tracker - Interactive Full-Stack Project",
+        "image": "",
+        "github": "",
+        "deploy": "",
+        "topics": ""
     },
     {
         "id": 3,
-        "name": "Tech Blog",
-        "image": "https://github.com/samanthapeterson/tech-blog/raw/main/tech-blog.png",
-        "github": "https://github.com/samanthapeterson/tech-blog",
-        "deploy": "https://foh-tech-blog.herokuapp.com/",
-        "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
+        "name": "Computer Science for JavaScript Challenge: Regex Tutorial",
+        "image": "",
+        "github": "",
+        "deploy": "",
+        "topics": ""
     },
     {
         "id": 4,
-        "name": "Weather Dashboard",
-        "image": "https://github.com/samanthapeterson/weather-dashboard/raw/master/weather-dashboard.png",
-        "github": "https://github.com/samanthapeterson/weather-dashboard",
-        "deploy": "https://samanthapeterson.github.io/weather-dashboard/",
-        "topics": "moment.js, javascript, jQuery, localStorage, API"
+        "name": "Node.js Challenge: Professional README Generator",
+        "image": "",
+        "github": "",
+        "deploy": "",
+        "topics": ""
     },
     {
         "id": 5,
-        "name": "Budget Tracker",
-        "image": "https://github.com/samanthapeterson/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
-        "github": "https://github.com/samanthapeterson/pwa-budget-tracker",
-        "deploy": "https://pwa-budget-traker.herokuapp.com/",
-        "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
+        "name": "Express.js Challenge: Note Taker",
+        "image": "",
+        "github": "",
+        "deploy": "",
+        "topics": ""
     },
     {
         "id": 6,
-        "name": "Work Day Scheduler",
-        "image": "https://github.com/samanthapeterson/workday-scheduler/raw/master/workday-scheduler.png",
-        "github": "https://github.com/samanthapeterson/workday-scheduler",
-        "deploy": "https://samanthapeterson.github.io/workday-scheduler/",
-        "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
+        "name": "ConfiFoodie",
+        "image": "",
+        "github": "",
+        "deploy": "",
+        "topics": ""
     }
 ]
