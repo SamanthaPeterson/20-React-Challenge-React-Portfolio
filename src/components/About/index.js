@@ -8,8 +8,9 @@ function About() {
             <hr></hr>
             <div>
                 < img class = "mb-5"
-                id = "avatar"
-                src = "https://github.com/SamanthaPeterson" alt = "Samantha Peterson" />
+                id = "about"
+                src = "https://raw.githubusercontent.com/SamanthaPeterson/for-react-portfolio/main/images/245824315_386873103102615_7340239058675747987_n.jpeg"
+                alt = "Let me introduce myself" />
 
                 <p>
                 Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma

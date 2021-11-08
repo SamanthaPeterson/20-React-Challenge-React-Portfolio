@@ -18,33 +18,33 @@
     {
         "id": 3,
         "name": "Tech Blog",
-        "image": "https://github.com/fondofhats/tech-blog/raw/main/tech-blog.png",
-        "github": "https://github.com/fondofhats/tech-blog",
+        "image": "https://github.com/samanthapeterson/tech-blog/raw/main/tech-blog.png",
+        "github": "https://github.com/samanthapeterson/tech-blog",
         "deploy": "https://foh-tech-blog.herokuapp.com/",
         "topics": "node, sequelize, handlebars, express-session, jawsdb, mysql, model-view-controller, dotenv"
     },
     {
         "id": 4,
         "name": "Weather Dashboard",
-        "image": "https://github.com/fondofhats/weather-dashboard/raw/master/weather-dashboard.png",
-        "github": "https://github.com/fondofhats/weather-dashboard",
-        "deploy": "https://fondofhats.github.io/weather-dashboard/",
+        "image": "https://github.com/samanthapeterson/weather-dashboard/raw/master/weather-dashboard.png",
+        "github": "https://github.com/samanthapeterson/weather-dashboard",
+        "deploy": "https://samanthapeterson.github.io/weather-dashboard/",
         "topics": "moment.js, javascript, jQuery, localStorage, API"
     },
     {
         "id": 5,
         "name": "Budget Tracker",
-        "image": "https://github.com/fondofhats/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
-        "github": "https://github.com/fondofhats/pwa-budget-tracker",
+        "image": "https://github.com/samanthapeterson/pwa-budget-tracker/raw/main/docs/pwa-budget-tracker.png",
+        "github": "https://github.com/samanthapeterson/pwa-budget-tracker",
         "deploy": "https://pwa-budget-traker.herokuapp.com/",
         "topics": "node, express, javascript, mongoDB, mongoose, nodemon"
     },
     {
         "id": 6,
         "name": "Work Day Scheduler",
-        "image": "https://github.com/fondofhats/workday-scheduler/raw/master/workday-scheduler.png",
-        "github": "https://github.com/fondofhats/workday-scheduler",
-        "deploy": "https://fondofhats.github.io/workday-scheduler/",
+        "image": "https://github.com/samanthapeterson/workday-scheduler/raw/master/workday-scheduler.png",
+        "github": "https://github.com/samanthapeterson/workday-scheduler",
+        "deploy": "https://samanthapeterson.github.io/workday-scheduler/",
         "topics": "HTML5, CSS, Javascript, JQuery, Bootstrap"
     }
 ]

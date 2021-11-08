@@ -11,14 +11,14 @@ function Resume() {
           <h2 className="top-title">Samantha Peterson</h2>
           <ul>
             <li>
-           js node express what i am good at
+          js node express what i am good at
             </li>
           </ul>
 
           <p class="mt-5">
             < a href = "https://www.linkedin.com/in/samantha-peterson-web-developer-photographer/" >
               <img
-                src="https://img.icons8.com/fluent/48/000000/linkedin.png"
+                src = "https://media-exp1.licdn.com/dms/image/C4E03AQFbCY0jRPtr6Q/profile-displayphoto-shrink_800_800/0/1625684970213?e=1642032000&v=beta&t=JncuxzgPttN7IP0LG2Nhw4bkLkSVzDZ7eEHsM0ajeL8"
                 alt="inkedIn"
               />
             </a>
