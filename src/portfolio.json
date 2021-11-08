@@ -10,10 +10,10 @@
     {
         "id": 2,
         "name": "Workout Tracker - Interactive Full-Stack Project",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/Screen%20Shot%202021-11-08%20at%204.14.21%20PM.png?raw=true",
+        "github": "https://github.com/tyler1836/workout-tracker",
+        "deploy": "https://blooming-shelf-02541.herokuapp.com/",
+        "topics": "Node.js, Express.js, RESTful API, Handlebars.js, Sequelize"
     },
     {
         "id": 3,
