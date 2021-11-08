@@ -19,9 +19,9 @@
         "id": 3,
         "name": "Computer Science for JavaScript Challenge: Regex Tutorial",
         "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "github": "https://gist.github.com/SamanthaPeterson",
+        "deploy": "https://gist.github.com/SamanthaPeterson/84682013a1b31bd8ff048276d61ba547",
+        "topics": "Regex"
     },
     {
         "id": 4,
@@ -42,9 +42,9 @@
     {
         "id": 6,
         "name": "ConfiFoodie",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/screenshot-ariana-commits89.github.io-2021.11.08-16_16_23.png?raw=true",
+        "github": "https://github.com/ariana-commits89/ConfiFoodie",
+        "deploy": "https://ariana-commits89.github.io/ConfiFoodie/",
+        "topics": "Front-End Project"
     }
 ]
