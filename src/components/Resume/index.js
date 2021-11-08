@@ -11,8 +11,7 @@ function Resume() {
           <h2 className="top-title">Samantha Peterson</h2>
           <ul>
             <li>
-              Core competencies in enterpirse content management, full-stack web
-              development, data architecture, and managing integrations.
+           js node express what i am good at
             </li>
           </ul>
 
