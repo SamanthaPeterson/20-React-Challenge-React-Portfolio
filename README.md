@@ -21,8 +21,13 @@ This application... allows various different users to create an account and post
 ![webpage screenshot]
   ![Screen Shot 2021-11-08 at 11 10 02 PM](https://user-images.githubusercontent.com/85209802/140871665-6333e23c-33fd-4f8c-b235-8a2e4f3cf57e.png)
 
+  <img width="1531" alt="Screen Shot 2021-11-08 at 11 05 04 PM" src="https://user-images.githubusercontent.com/85209802/140871861-602bb2d4-e8e1-468f-8490-42d28f202712.png">
+
+  ![Screen Shot 2021-11-08 at 11 11 10 PM](https://user-images.githubusercontent.com/85209802/140871902-494b8ea4-aa25-4055-ab42-47cf82a473e4.png)
   
-  
+  ![Screen Shot 2021-11-08 at 11 11 19 PM](https://user-images.githubusercontent.com/85209802/140871973-c1472946-03b4-49e4-881f-69c8a2e0674e.png)
+
+
 https://www.youtube.com/watch?v=3tz8vQ9Ejms
   Right this second i am getting a weird error when trying to deploy to heroku- i am working on that, really struggling to understand why. 
   
