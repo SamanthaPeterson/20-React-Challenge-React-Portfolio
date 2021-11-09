@@ -19,7 +19,12 @@ This application... allows various different users to create an account and post
 
 # Screenshot
 ![webpage screenshot]
-
+  
+  
+  
+https://www.youtube.com/watch?v=3tz8vQ9Ejms
+  Right this second i am getting a weird error when trying to deploy to heroku- i am working on that, really struggling to understand why. 
+  
 # Application Link
 
 Deployed link here 
@@ -29,7 +34,7 @@ Deployed link here
 ## Brief Summary 
 
 20. React Challenge: React Portfolio
- 
+ https://www.youtube.com/watch?v=3tz8vQ9Ejms
 
 ## Screenshot
 <img width=" ">
@@ -152,7 +157,7 @@ https://photographersama.myportfolio.com/
 Email photographer.samantha@live.com
 
 
- 
+ https://www.youtube.com/watch?v=3tz8vQ9Ejms
 
 
 Project Link: [https://github.com/SamanthaPeterson/](https://github.com/SamanthaPeterson/)
