@@ -18,26 +18,26 @@
     {
         "id": 3,
         "name": "Computer Science for JavaScript Challenge: Regex Tutorial",
-        "image": "",
+        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/screenshot-gist.github.com-2021.11.08-16_25_35.png?raw=true",
         "github": "https://gist.github.com/SamanthaPeterson",
         "deploy": "https://gist.github.com/SamanthaPeterson/84682013a1b31bd8ff048276d61ba547",
-        "topics": "Regex"
+        "topics": "Regex, Computer Science, Javascript"
     },
     {
         "id": 4,
         "name": "Node.js Challenge: Professional README Generator",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/Screen%20Shot%202021-11-08%20at%204.40.07%20PM.png?raw=true",
+        "github": "https://github.com/SamanthaPeterson/Node_Readme_Generator_09",
+        "deploy": "https://github.com/SamanthaPeterson/Node_Readme_Generator_09",
+        "topics": "Node.js, Readme"
     },
     {
         "id": 5,
         "name": "Express.js Challenge: Note Taker",
-        "image": "",
-        "github": "",
-        "deploy": "",
-        "topics": ""
+        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/133151808-f4a8081b-bebb-43ad-b20a-d177677ca60e.png?raw=true",
+        "github": "https://github.com/SamanthaPeterson/Express_js-Challenge--Note-Taker-11",
+        "deploy": "https://dry-atoll-77782.herokuapp.com/",
+        "topics": "Express"
     },
     {
         "id": 6,

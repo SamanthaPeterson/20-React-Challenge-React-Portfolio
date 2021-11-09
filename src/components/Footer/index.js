@@ -10,7 +10,6 @@ function Footer() {
         <a href = "https://www.linkedin.com/in/samantha-peterson-web-developer-photographer/"> <img src = "https://img.icons8.com/fluent/48/000000/linkedin.png"
         alt = "LinkedIn"
         className = "icon"/> </a>
-        <a href="http://SamanthaPeterson.com/"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/trilby.png" alt="SamanthaPeterson.com" className="icon"/></a>
     </footer>
     )
 }

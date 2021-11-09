@@ -4,7 +4,7 @@ function About() {
 
     return(
         <section className="container">
-            <h2 class="top-title">Samantha Peterson</h2>
+            <h2 class = "top-title" > Let me introduce myself to you. My name is Sam & I am a Web Developer. </h2>
             <hr></hr>
             <div>
                 < img class = "mb-5"
@@ -13,16 +13,15 @@ function About() {
                 alt = "Let me introduce myself" />
 
                 <p>
-                Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
-                for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly.
+                Web developer coding in JavaScript. Enjoys Node JS and Express JS frameworks, as well as Figma
+                for web design. An Adobe Creative Cloud guru. Graphic designer, able to create beautiful imagery that communicates clearly.
                 </p>
                 <p>
-                Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
-                for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly.
+                I am driven, creative, teachable, willing to learn, and passionate. I am a Mom to the best boy in the world.
                 </p>
                 <p>
-                Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
-                for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly.
+                Web developer coding in JavaScript. Enjoys Node JS and Express JS frameworks, as well as Figma
+                for web design. An Adobe Creative Cloud guru. Graphic designer, able to create beautiful imagery that communicates clearly.
                 </p>
             </div>
         </section>

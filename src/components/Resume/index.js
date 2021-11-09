@@ -8,24 +8,27 @@ function Resume() {
 
       <div>
         <div class="mt-5">
-          <h2 className="top-title">Samantha Peterson</h2>
+          {/* < h2 className = "top-title"> My qualifications </h2>
           <ul>
             <li>
-          js node express what i am good at
+          My qualifications
             </li>
-          </ul>
+          </ul> */}
 
           <p class="mt-5">
             < a href = "https://www.linkedin.com/in/samantha-peterson-web-developer-photographer/" >
               <img
-                src = "https://media-exp1.licdn.com/dms/image/C4E03AQFbCY0jRPtr6Q/profile-displayphoto-shrink_800_800/0/1625684970213?e=1642032000&v=beta&t=JncuxzgPttN7IP0LG2Nhw4bkLkSVzDZ7eEHsM0ajeL8"
+                src = "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/resume/Screen%20Shot%202021-11-08%20at%205.48.25%20PM.png?raw=true"
                 alt="inkedIn"
               />
+                < img
+                src = "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/resume/Screen%20Shot%202021-11-08%20at%205.48.39%20PM.png?raw=true"
+                alt = "inkedIn" />
             </a>
           </p>
 
           <a
-            href="https://github.com/react-portfolio/raw/main/docs/SamanthaPetersonResume.docx"
+            href = "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/resume/Resume-%20Pages%202021.pdf"
             class="link"
           >
             Download Resume
@@ -35,19 +38,19 @@ function Resume() {
 
       <div class="justify-content-center mt-5">
         <div>
-          <h2 className="top-title">Skills</h2>
+          <h2 className="top-title"> </h2>
           <ul>
             <li>
             Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
             for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly. < br />
             </li>
           </ul>
-            <ul>
+            {/* <ul>
               <li>
               Web developer coding in JavaScript.Enjoys Node JS and Express JS frameworks, as well as Figma
             for web design.An Adobe Creative Cloud guru.Graphic designer, able to create beautiful imagery that communicates clearly. < br / >
               </li> 
-              </ul>
+              </ul> */}
         </div>
       </div>
     </section>
