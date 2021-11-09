@@ -19,7 +19,8 @@ This application... allows various different users to create an account and post
 
 # Screenshot
 ![webpage screenshot]
-  
+  ![Screen Shot 2021-11-08 at 11 10 02 PM](https://user-images.githubusercontent.com/85209802/140871665-6333e23c-33fd-4f8c-b235-8a2e4f3cf57e.png)
+
   
   
 https://www.youtube.com/watch?v=3tz8vQ9Ejms
