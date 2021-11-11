@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/20-React-Challenge-React-Portfolio/static/css/main.a6e2fb25.chunk.css",
+    "main.js": "/20-React-Challenge-React-Portfolio/static/js/main.e1225148.chunk.js",
+    "main.js.map": "/20-React-Challenge-React-Portfolio/static/js/main.e1225148.chunk.js.map",
+    "runtime-main.js": "/20-React-Challenge-React-Portfolio/static/js/runtime-main.1a743ccc.js",
+    "runtime-main.js.map": "/20-React-Challenge-React-Portfolio/static/js/runtime-main.1a743ccc.js.map",
+    "static/css/2.937e36ca.chunk.css": "/20-React-Challenge-React-Portfolio/static/css/2.937e36ca.chunk.css",
+    "static/js/2.6bdaa415.chunk.js": "/20-React-Challenge-React-Portfolio/static/js/2.6bdaa415.chunk.js",
+    "static/js/2.6bdaa415.chunk.js.map": "/20-React-Challenge-React-Portfolio/static/js/2.6bdaa415.chunk.js.map",
+    "static/js/3.8947dd1e.chunk.js": "/20-React-Challenge-React-Portfolio/static/js/3.8947dd1e.chunk.js",
+    "static/js/3.8947dd1e.chunk.js.map": "/20-React-Challenge-React-Portfolio/static/js/3.8947dd1e.chunk.js.map",
+    "index.html": "/20-React-Challenge-React-Portfolio/index.html",
+    "service-worker.js": "/20-React-Challenge-React-Portfolio/service-worker.js",
+    "service-worker.js.map": "/20-React-Challenge-React-Portfolio/service-worker.js.map",
+    "static/css/2.937e36ca.chunk.css.map": "/20-React-Challenge-React-Portfolio/static/css/2.937e36ca.chunk.css.map",
+    "static/css/main.a6e2fb25.chunk.css.map": "/20-React-Challenge-React-Portfolio/static/css/main.a6e2fb25.chunk.css.map",
+    "static/js/2.6bdaa415.chunk.js.LICENSE.txt": "/20-React-Challenge-React-Portfolio/static/js/2.6bdaa415.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a743ccc.js",
+    "static/css/2.937e36ca.chunk.css",
+    "static/js/2.6bdaa415.chunk.js",
+    "static/css/main.a6e2fb25.chunk.css",
+    "static/js/main.e1225148.chunk.js"
+  ]
+}
