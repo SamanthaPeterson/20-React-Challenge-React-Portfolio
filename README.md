@@ -14,8 +14,8 @@
     
    
 # Description
-
-This application... allows various different users to create an account and post blog posts. Users can also edit and delete their own posts. It also allows them to comment on posts from other users.
+See deployed link here. 
+https://samanthapeterson.github.io/20-React-Challenge-React-Portfolio/#/about
 
 # Screenshot
 ![webpage screenshot]
@@ -27,9 +27,10 @@ This application... allows various different users to create an account and post
   
   ![Screen Shot 2021-11-08 at 11 11 19 PM](https://user-images.githubusercontent.com/85209802/140871973-c1472946-03b4-49e4-881f-69c8a2e0674e.png)
 
+  https://samanthapeterson.github.io/20-React-Challenge-React-Portfolio/#/about
 
 https://www.youtube.com/watch?v=3tz8vQ9Ejms
-  Right this second i am getting a weird error when trying to deploy to heroku- i am working on that, really struggling to understand why. 
+ 
   
 # Application Link
 
@@ -170,6 +171,7 @@ Email photographer.samantha@live.com
 
 Project Link: [https://github.com/SamanthaPeterson/](https://github.com/SamanthaPeterson/)
 
+https://samanthapeterson.github.io/20-React-Challenge-React-Portfolio/#/about
 
 
 <!-- ACKNOWLEDGEMENTS -->
