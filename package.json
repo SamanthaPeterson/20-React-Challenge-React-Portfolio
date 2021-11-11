@@ -1,7 +1,9 @@
 {
   "homepage": "https://github.com/SamanthaPeterson/20-React-Challenge-React-Portfolio",
-  "name": "20-React-Challenge-React-Portfolio",
+  "name": "20 React Challenge React Portfolio",
   "version": "0.1.0",
+  "engines": {
+  "node": "17.0.1"},
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
