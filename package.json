@@ -1,6 +1,6 @@
 {
-  "homepage": "http://samanthapeterson.github.io/react-portfolio",
-  "name": "react-portfolio",
+  "homepage": "https://github.com/SamanthaPeterson/20-React-Challenge-React-Portfolio",
+  "name": "20-React-Challenge-React-Portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +11,7 @@
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
     "bootstrap": "^4.5.3",
+    "fortawesome": "^0.0.1-security",
     "popper": "^1.0.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
