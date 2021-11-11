@@ -36,7 +36,8 @@ https://www.youtube.com/watch?v=3tz8vQ9Ejms
 Deployed link here 
 ![Screen Shot 2021-11-08 at 11 15 28 PM](https://user-images.githubusercontent.com/85209802/140872243-2c89774b-ee13-42a7-8489-a52720b1b9cb.png)
 
-
+https://samanthapeterson.github.io/20-React-Challenge-React-Portfolio/build/index.html
+  
 
 ## Brief Summary 
 
