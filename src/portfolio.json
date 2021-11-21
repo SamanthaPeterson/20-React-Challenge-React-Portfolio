@@ -41,10 +41,10 @@
     },
     {
         "id": 6,
-        "name": "ConfiFoodie",
-        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/screenshot-ariana-commits89.github.io-2021.11.08-16_16_23.png?raw=true",
-        "github": "https://github.com/ariana-commits89/ConfiFoodie",
-        "deploy": "https://ariana-commits89.github.io/ConfiFoodie/",
-        "topics": "Front-End Project"
+        "name": "Clean Freak",
+        "image": "https://github.com/SamanthaPeterson/for-react-portfolio/blob/main/images/screenshot-clean-freak.herokuapp.com-2021.11.20-16_27_14.png?raw=true",
+        "github": "https://github.com/brandon-stewart-rgb/clean-freak",
+        "deploy": "https://clean-freak.herokuapp.com/",
+        "topics": "Final Project, React"
     }
 ]
